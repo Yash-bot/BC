@@ -1,0 +1,134 @@
+{
+    "Conservative": {
+        "Retirement": {
+            "0-10 years": {
+                "No": "60% in bonds, 30% in conservative mutual funds, 10% in cash or high-quality stocks",
+                "Yes": "60% in green bonds, 30% in ESG-focused conservative mutual funds, 10% in sustainable money market funds"
+            },
+            "10-15 years": {
+                "No": "50% in bonds, 40% in conservative mutual funds, 10% in cash or high-quality stocks",
+                "Yes": "50% in green bonds, 40% in ESG-focused conservative mutual funds, 10% in sustainable stocks"
+            },
+            "15-20 years": {
+                "No": "40% in bonds, 40% in conservative mutual funds, 20% in cash or high-quality stocks",
+                "Yes": "40% in green bonds, 40% in ESG-focused conservative mutual funds, 20% in sustainable stocks"
+            }
+        },
+        "Buying a House": {
+            "0-10 years": {
+                "No": "70% in bonds, 20% in conservative mutual funds, 10% in cash",
+                "Yes": "70% in green bonds, 20% in ESG-focused conservative mutual funds, 10% in sustainable money market funds"
+            },
+            "10-15 years": {
+                "No": "60% in bonds, 30% in conservative mutual funds, 10% in cash",
+                "Yes": "60% in green bonds, 30% in ESG-focused conservative mutual funds, 10% in sustainable stocks"
+            },
+            "15-20 years": {
+                "No": "50% in bonds, 40% in conservative mutual funds, 10% in cash",
+                "Yes": "50% in green bonds, 40% in ESG-focused conservative mutual funds, 10% in sustainable stocks"
+            }
+        },
+        "Education": {
+            "0-10 years": {
+                "No": "50% in bonds, 30% in balanced mutual funds, 20% in cash",
+                "Yes": "50% in green bonds, 30% in ESG-focused balanced mutual funds, 20% in sustainable money market funds"
+            },
+            "10-15 years": {
+                "No": "40% in bonds, 40% in balanced mutual funds, 20% in high-quality stocks",
+                "Yes": "40% in green bonds, 40% in ESG-focused balanced mutual funds, 20% in sustainable stocks"
+            },
+            "15-20 years": {
+                "No": "30% in bonds, 50% in balanced mutual funds, 20% in high-quality stocks",
+                "Yes": "30% in green bonds, 50% in ESG-focused balanced mutual funds, 20% in sustainable high-growth stocks"
+            }
+        }
+    },
+    "Moderate": {
+        "Retirement": {
+            "0-10 years": {
+                "No": "50% in bonds, 30% in balanced mutual funds, 20% in high-quality stocks",
+                "Yes": "50% in green bonds, 30% in ESG-focused balanced mutual funds, 20% in sustainable stocks"
+            },
+            "10-15 years": {
+                "No": "40% in bonds, 40% in balanced mutual funds, 20% in high-quality stocks",
+                "Yes": "40% in green bonds, 40% in ESG-focused balanced mutual funds, 20% in sustainable stocks"
+            },
+            "15-20 years": {
+                "No": "30% in bonds, 50% in balanced mutual funds, 20% in high-growth stocks",
+                "Yes": "30% in green bonds, 50% in ESG-focused balanced mutual funds, 20% in sustainable high-growth stocks"
+            }
+        },
+        "Buying a House": {
+            "0-10 years": {
+                "No": "60% in bonds, 20% in balanced mutual funds, 20% in cash",
+                "Yes": "60% in green bonds, 20% in ESG-focused balanced mutual funds, 20% in sustainable money market funds"
+            },
+            "10-15 years": {
+                "No": "50% in bonds, 30% in balanced mutual funds, 20% in high-quality stocks",
+                "Yes": "50% in green bonds, 30% in ESG-focused balanced mutual funds, 20% in sustainable stocks"
+            },
+            "15-20 years": {
+                "No": "40% in bonds, 40% in balanced mutual funds, 20% in high-growth stocks",
+                "Yes": "40% in green bonds, 40% in ESG-focused balanced mutual funds, 20% in sustainable high-growth stocks"
+            }
+        },
+        "Education": {
+            "0-10 years": {
+                "No": "50% in bonds, 30% in balanced mutual funds, 20% in cash",
+                "Yes": "50% in green bonds, 30% in ESG-focused balanced mutual funds, 20% in sustainable money market funds"
+            },
+            "10-15 years": {
+                "No": "40% in bonds, 40% in balanced mutual funds, 20% in high-quality stocks",
+                "Yes": "40% in green bonds, 40% in ESG-focused balanced mutual funds, 20% in sustainable stocks"
+            },
+            "15-20 years": {
+                "No": "30% in bonds, 50% in balanced mutual funds, 20% in high-growth stocks",
+                "Yes": "30% in green bonds, 50% in ESG-focused balanced mutual funds, 20% in sustainable high-growth stocks"
+            }
+        }
+    },
+    "Aggressive": {
+        "Retirement": {
+            "0-10 years": {
+                "No": "40% in balanced mutual funds, 30% in high-growth stocks, 30% in bonds",
+                "Yes": "40% in ESG-focused balanced mutual funds, 30% in sustainable high-growth stocks, 30% in green bonds"
+            },
+            "10-15 years": {
+                "No": "30% in balanced mutual funds, 50% in high-growth stocks, 20% in bonds",
+                "Yes": "30% in ESG-focused balanced mutual funds, 50% in sustainable high-growth stocks, 20% in green bonds"
+            },
+            "15-20 years": {
+                "No": "20% in balanced mutual funds, 60% in high-growth stocks, 20% in speculative assets",
+                "Yes": "20% in ESG-focused balanced mutual funds, 60% in sustainable high-growth stocks, 20% in speculative sustainable assets"
+            }
+        },
+        "Buying a House": {
+            "0-10 years": {
+                "No": "50% in balanced mutual funds, 30% in high-growth stocks, 20% in cash",
+                "Yes": "50% in ESG-focused balanced mutual funds, 30% in sustainable high-growth stocks, 20% in sustainable money market funds"
+            },
+            "10-15 years": {
+                "No": "40% in balanced mutual funds, 40% in high-growth stocks, 20% in bonds",
+                "Yes": "40% in ESG-focused balanced mutual funds, 40% in sustainable high-growth stocks, 20% in green bonds"
+            },
+            "15-20 years": {
+                "No": "30% in balanced mutual funds, 50% in high-growth stocks, 20% in speculative assets",
+                "Yes": "30% in ESG-focused balanced mutual funds, 50% in sustainable high-growth stocks, 20% in speculative sustainable assets"
+            }
+        },
+        "Education": {
+            "0-10 years": {
+                "No": "60% in balanced mutual funds, 30% in high-growth stocks, 10% in cash",
+                "Yes": "60% in ESG-focused balanced mutual funds, 30% in sustainable high-growth stocks, 10% in sustainable money market funds"
+            },
+            "10-15 years": {
+                "No": "50% in balanced mutual funds, 40% in high-growth stocks, 10% in bonds",
+                "Yes": "50% in ESG-focused balanced mutual funds, 40% in sustainable high-growth stocks, 10% in green bonds"
+            },
+            "15-20 years": {
+                "No": "40% in balanced mutual funds, 50% in high-growth stocks, 10% in speculative assets",
+                "Yes": "40% in ESG-focused balanced mutual funds, 50% in sustainable high-growth stocks, 10% in speculative sustainable assets"
+            }
+        }
+    }
+}
